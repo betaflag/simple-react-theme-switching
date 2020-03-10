@@ -1,0 +1,5 @@
+.Content {
+  background: var(--color-background);
+  color: var(--color-on-background);
+  padding: 10px;
+}
